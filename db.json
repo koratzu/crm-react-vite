@@ -1,0 +1,20 @@
+{
+  "clients": [
+    {
+      "name": "Daniel ",
+      "enterprise": "Gases",
+      "email": "daniel@correo.com",
+      "phone": "1234",
+      "notes": "zZzZzZzZz",
+      "id": 1
+    },
+    {
+      "name": "Luis",
+      "enterprise": "Blender",
+      "email": "luis@correo.com",
+      "phone": "5678",
+      "notes": "zZzZzZzZzZzZ",
+      "id": 2
+    }
+  ]
+}
